@@ -24,6 +24,6 @@
   <project remote="qt5-extra" name="meta-qt5-extra" revision="70046ad8d942b7df296bfa69dc408b9ea0bb97fa"  path="meta-qt5-extra"/>
   <project remote="swupdate" name="meta-swupdate" revision="d8842db38a4b1eda9e072a30672fb8cb875a04e9"  path="meta-swupdate"/>
   <project remote="venom-elite" name="meta-venom-honister" revision="8d7ab0319fb324f6621f0744569ff930aee48733"  path="meta-venom-elite" upstream="main"/> 
-  <project remote="virtualzation" name="meta-virtualzation" revision="7a3b0b7ae1ac1a721369ee3f7a73b40b73510099"  path="meta-virtualzation"/> 
+  <project remote="virtualization" name="meta-virtualization" revision="7a3b0b7ae1ac1a721369ee3f7a73b40b73510099"  path="meta-virtualization"/> 
 
 </manifest>
