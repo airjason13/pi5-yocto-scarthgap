@@ -23,7 +23,7 @@
   <project remote="qt5" name="meta-qt5" revision="65a8be4d5d90c6bda1974cea82711bda4792a078"  path="meta-qt5"/>
   <project remote="qt5-extra" name="meta-qt5-extra" revision="70046ad8d942b7df296bfa69dc408b9ea0bb97fa"  path="meta-qt5-extra"/>
   <project remote="swupdate" name="meta-swupdate" revision="d8842db38a4b1eda9e072a30672fb8cb875a04e9"  path="meta-swupdate"/>
-  <project remote="venom-elite" name="meta-venom-scarthgap" revision="3f0cdc55fb1c18550cc06baa2fd1e8c64df79b7c"  path="meta-venom-elite"/> 
+  <project remote="venom-elite" name="meta-venom-scarthgap" revision="3f0cdc55fb1c18550cc06baa2fd1e8c64df79b7c"  path="meta-venom-elite" upstream="main"/> 
   <project remote="virtualization" name="meta-virtualization" revision="7a3b0b7ae1ac1a721369ee3f7a73b40b73510099"  path="meta-virtualization"/> 
 
 </manifest>
