@@ -15,15 +15,15 @@
   <remote fetch="git://git.yoctoproject.org" name="virtualization"/>
   <remote fetch="https://github.com/balister" name="sdr"/>
   
-  <project remote="yocto" name="poky" revision="30d88a20432d2ddca555c9b6690450b260e523ec" path="poky" />
-  <project remote="raspberrypi" name="meta-raspberrypi" revision="d88e625cf2d12adc3aba03567b7f9f639ba5f129" path="meta-raspberrypi" />
-  <project remote="oe" name="meta-openembedded" revision="167d9f39d07da133fda786b7be40f2b8275e2d5f"  path="meta-openembedded"/>
+  <project remote="yocto" name="poky" revision="68f9a4b73d17839e0ec1f12a31fc1d42331cc42f" path="poky" upstream="scarthgap"/>
+  <project remote="raspberrypi" name="meta-raspberrypi" revision="1879cb831f4ea3e532cb5ce9fa0f32be917e8fa3" path="meta-raspberrypi" />
+  <project remote="oe" name="meta-openembedded" revision="6de0ab744341ad61b0661aa28d78dc6767ce0786"  path="meta-openembedded" upstream="scarthgap"/>
   <project remote="OSSystems" name="meta-browser" revision="81d037b8650a73339dab97ceba9917b1f31ca652"  path="meta-browser"/>
-  <project remote="clang" name="meta-clang" revision="fc56d6c8014f75fbc5a3f272c62ae201888e65d5"  path="meta-clang"/>
-  <project remote="qt5" name="meta-qt5" revision="65a8be4d5d90c6bda1974cea82711bda4792a078"  path="meta-qt5"/>
+  <project remote="clang" name="meta-clang" revision="ce35c39511f885c64e6075d237a22bf5296d42da"  path="meta-clang"/>
+  <project remote="qt5" name="meta-qt5" revision="d8eeef0bfd84672c7919cd346f25f7c9a98ddaea"  path="meta-qt5" upstream="scarthgap"/>
   <project remote="qt5-extra" name="meta-qt5-extra" revision="70046ad8d942b7df296bfa69dc408b9ea0bb97fa"  path="meta-qt5-extra"/>
   <project remote="swupdate" name="meta-swupdate" revision="d8842db38a4b1eda9e072a30672fb8cb875a04e9"  path="meta-swupdate"/>
-  <project remote="venom-elite" name="meta-venom-scarthgap" revision="28c31b39511c4483dae94c8c02ea69d7d5e94a4f"  path="meta-venom-elite" upstream="main"/> 
+  <project remote="venom-elite" name="meta-venom-scarthgap" revision="3f0cdc55fb1c18550cc06baa2fd1e8c64df79b7c"  path="meta-venom-elite" upstream="main"/> 
   <project remote="virtualization" name="meta-virtualization" revision="7a3b0b7ae1ac1a721369ee3f7a73b40b73510099"  path="meta-virtualization"/> 
 
 </manifest>
