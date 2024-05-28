@@ -18,7 +18,7 @@
   <project remote="yocto" name="poky" revision="68f9a4b73d17839e0ec1f12a31fc1d42331cc42f" path="poky" upstream="scarthgap"/>
   <project remote="raspberrypi" name="meta-raspberrypi" revision="1879cb831f4ea3e532cb5ce9fa0f32be917e8fa3" path="meta-raspberrypi" />
   <project remote="oe" name="meta-openembedded" revision="6de0ab744341ad61b0661aa28d78dc6767ce0786"  path="meta-openembedded" upstream="scarthgap"/>
-  <project remote="OSSystems" name="meta-browser" revision="81d037b8650a73339dab97ceba9917b1f31ca652"  path="meta-browser"/>
+  <project remote="OSSystems" name="meta-browser" revision="1ed2254d72a4c25879014c98be287a7e3e22904c"  path="meta-browser"/>
   <project remote="clang" name="meta-clang" revision="ce35c39511f885c64e6075d237a22bf5296d42da"  path="meta-clang"/>
   <project remote="qt5" name="meta-qt5" revision="d8eeef0bfd84672c7919cd346f25f7c9a98ddaea"  path="meta-qt5" upstream="scarthgap"/>
   <project remote="qt5-extra" name="meta-qt5-extra" revision="70046ad8d942b7df296bfa69dc408b9ea0bb97fa"  path="meta-qt5-extra"/>
